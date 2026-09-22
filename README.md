@@ -1,3 +1,5 @@
+> **Moved.** This SDK now lives in [innovafour/iforevents-sdks](https://github.com/innovafour/iforevents-sdks/tree/main/python). This repository is archived.
+
 # iforevents (Python)
 
 The IForevents analytics SDK for Python servers, workers and CLIs. One
